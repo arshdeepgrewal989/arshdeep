@@ -11,6 +11,9 @@
 # production
 /build
 
+
+// eslint-disable-next-line to the line before.
+
 # misc
 .DS_Store
 .env.local
