@@ -62,7 +62,6 @@ let resumeData = {
         "name":"MapWize",
         "description":"mobileapp",
         "imgurl":"images/portfolio/wayfind1.png",
-        "imgurl":"images/portfolio/wayfind2.png"
       },
       {
         "name":"project2",
