@@ -32,7 +32,7 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"Wilfrid Lauirer University",
-        "specialization":"Student Office Admin Assistan",
+        "specialization":"Student Office Admin Assistant",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2019",
         "Achievements":"Helped create on campus navigation system. Worked with Archibus to log and manage space data through out campus. Also worked with AutoCAD to make and edit floor plans"
