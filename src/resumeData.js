@@ -25,7 +25,7 @@ let resumeData = {
         "specialization":"Computer Science",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2022",
-        "Achievements":"Passed my classes"
+        //"Achievements":""
       },
       
     ],
