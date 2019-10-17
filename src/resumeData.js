@@ -48,13 +48,13 @@ let resumeData = {
     "skillsDescription":"What Can I Do?",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Proficient at: Java, JavaScript, CSS, React, React-Native, Python, more...."
       },
       {
-        "skillname":"CSS"
+        "skillname":"Experienced in AutoCAD"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Excellent at Databases and Full Stack Development."
       }
     ],
     "portfolio":[
@@ -64,29 +64,33 @@ let resumeData = {
         "imgurl":"images/portfolio/wayfind1.png",
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Arshdeepg.com",
+        "description":"Personal Website",
+        "imgurl":"images/portfolio/site_main.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"IRONSIDE newMedia - Project: Firebolt",
+        "description":"https://devpost.com/software/ironside",  
+        "imgurl":"images/portfolio/IMG_0873.jpg"
       },
       {
-        "name":"project4",
+        "name":"Robot",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/IMG_0870.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"Sikkest Yute Ever",
-        "name":"Steve Jobs"
+        "description":"Pleasure to work with, quick learner and efficient employee",
+        "name":"Nik Schmit"
       },
       {
-        "description":"Pleasure to work with",
-        "name":"Elon Musk"
+        "description":"Great team leader, very knowledagble and hardworking.",
+        "name":"Troy D'Souza"
+      },
+      {
+        "description":"Arshdeep was a great team member to work with. Very knowledgeable and hard working, really came through when team needed him most!",
+        "name":"Mark Ironside"
       }
     ]
   }
