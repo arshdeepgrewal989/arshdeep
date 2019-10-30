@@ -24,7 +24,9 @@
 <link rel="stylesheet" href="%PUBLIC_URL%/css/layout.css">
 <link rel="stylesheet" href="%PUBLIC_URL%/css/media-queries.css">
 <link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css">
-  
+<link rel="stylesheet" href="%PUBLIC_URL%/css/contact.css">
+
+
 <script src="%PUBLIC_URL%/js/modernizr.js"></script>
 <title>My Portfolio</title>
   </head>
@@ -53,5 +55,17 @@
     <script src="js/magnific-popup.js"></script>
     <script src="js/init.js"></script>
 
+    <head> 
+      <script src="jquery.js"></script> 
+      <script> 
+      $(function(){
+        $("#includedContent").load("contact.html"); 
+      });
+      </script> 
+    </head> 
+  
+    <body> 
+       <div id="includedContent"></div>
+    </body> 
   </body>
 </html>

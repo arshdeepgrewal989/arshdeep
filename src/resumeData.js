@@ -1,9 +1,9 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Arshdeep Grewal",
-    "role": "Full Stack Developer",
+    "imagebaseurl":"www.arshdeepg.com",
+    "name": "Arshdeep Singh Grewal",
+    "role": "",
     "linkedinId":"https://www.linkedin.com/in/arshdeep-grewal-495ab490/",
-    "roleDescription": "I enjoy working with Databases and Full stack development..",
+    "roleDescription": "  ",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -16,7 +16,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"Thank-you for visiting my website. I am a Computer Science student, currently enrolled in my 3rd year of study at Wilfrid Laurier University. This is my website which I created with the help of React. Here you can see my projects, experience, education, and contact information.",
+    "aboutme":"Hi There! Thank-you for visiting my website. I am currently a 3rd Year Laurier Computer Science Student. My intrests lie in the intesection of Computer Science and Business. There is nothing I love more than finishing a project and learning new things by the end of it. I am currently looking for opportunities to leverage my intrest in Buissness and Knowledge in web-development, API's, and creating efficient Software to help create a better world for all.",
     "address":"Canada",
     "website":"https://arshdeep.github.io",
     "education":[
@@ -32,10 +32,10 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"Wilfrid Lauirer University",
-        "specialization":"Student Office Admin Assistant",
+        "specialization":"Student Office Admin",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2019",
-        "Achievements":"Helped create on campus navigation system. Worked with Archibus to log and manage space data through out campus. Also worked with AutoCAD to make and edit floor plans"
+        "Achievements":"Assisted in creatin an on-campus navigation system. Worked with Archibus to log and manage space data through out campus. Also worked with AutoCAD to make and edit floor plans"
       },
       {
         "CompanyName":"Results Fitness",
@@ -43,18 +43,6 @@ let resumeData = {
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2019",
         "Achievements":"Lead Instructor"
-      }
-    ],
-    "skillsDescription":"What Can I Do?",
-    "skills":[
-      {
-        "skillname":"Proficient at: Java, JavaScript, CSS, React, React-Native, Python, more...."
-      },
-      {
-        "skillname":"Experienced in AutoCAD"
-      },
-      {
-        "skillname":"Excellent at Databases and Full Stack Development."
       }
     ],
     "portfolio":[
@@ -66,33 +54,25 @@ let resumeData = {
       {
         "name":"Arshdeepg.com",
         "description":"Personal Website",
-        "imgurl":"images/portfolio/site_main.jpg"
+        "imgurl":"images/site_main.png"
       },
       {
-        "name":"IRONSIDE newMedia - Project: Firebolt",
-        "description":"https://devpost.com/software/ironside",  
-        "imgurl":"images/portfolio/IMG_0873.jpg"
+        "name":"Let's Chat !",
+        "description":"A Social Chatting Platform built from React Library, Node.js, Firebase, Material-UI, Express, And Redux",  
+        "imgurl":"images/loading.gif"
       },
-      {
+      /*{
         "name":"Robot",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/IMG_0870.jpg"
-      }
+        "imgurl":"images/IMG_0870.jpg"
+      }*/
     ],
-    "testimonials":[
+    /*"testimonials":[
       {
         "description":"Pleasure to work with, quick learner and efficient employee",
         "name":"Nik Schmit"
       },
-      {
-        "description":"Great team leader, very knowledagble and hardworking.",
-        "name":"Troy D'Souza"
-      },
-      {
-        "description":"Arshdeep was a great team member to work with. Very knowledgeable and hard working, really came through when team needed him most!",
-        "name":"Mark Ironside"
-      }
-    ]
+    ]*/
   }
   
   export default resumeData
