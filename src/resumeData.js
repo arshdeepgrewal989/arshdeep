@@ -16,15 +16,22 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"Hi There! Thank-you for visiting my website. I am currently a 3rd Year Laurier Computer Science Student. My intrests lie in the intesection of Computer Science and Business. There is nothing I love more than finishing a project and learning new things by the end of it. I am currently looking for opportunities to leverage my intrest in Buissness and Knowledge in web-development, API's, and creating efficient Software to help create a better world for all.",
+    "aboutme":"Hi there, thank you for visiting my website! My name is Arshdeep and I am currently a 3rd-year computer science student at Wilfred Laurier. My interests lie in the intersection of computer science and business. I love to complete projects because the knowledge I gain and the lessons I learn during the process are essential to my learning and growth. I am currently looking for opportunities to leverage my interests and expand my skill sets in the fields of business, web/app development, and Object-Oriented Design. My goal is to make a difference; I strive to use my abilities in order to devise a better society for the future generations and I am constantly seeking out new experiences that will assist me in meeting this objective. ",
     "address":"Canada",
     "website":"https://arshdeep.github.io",
     "education":[
       {
         "UniversityName":"Wilfrid Laurier University",
         "specialization":"Computer Science",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2022",
+        "MonthOfPassing":"Sep",
+        "YearOfPassing":"2017 - Present",
+        //"Achievements":""
+      },
+      {
+        "UniversityName":"Notre Dame Catholic Secondary School",
+        "specialization":"Honour Roll",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2013 - 2017",
         //"Achievements":""
       },
       
@@ -35,14 +42,14 @@ let resumeData = {
         "specialization":"Student Office Admin",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2019",
-        "Achievements":"Assisted in creatin an on-campus navigation system. Worked with Archibus to log and manage space data through out campus. Also worked with AutoCAD to make and edit floor plans"
+        "Achievements":"Worked as a Student Office Admin assistant in Faculties and Asset Management Assisted in creating an on-campus navigation system. Worked with Archibus to log and manage space data through out campus. Also worked with AutoCAD to make and edit floor plans"
       },
       {
         "CompanyName":"Results Fitness",
         "specialization":"Swimming Instructor/ Lifeguard",
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2019",
-        "Achievements":"Lead Instructor"
+        "Achievements":"Lead Instructor. My job was to Cultivate positive and healthy relationships with participants. "
       }
     ],
     "portfolio":[
