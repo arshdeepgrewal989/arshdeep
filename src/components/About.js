@@ -21,6 +21,12 @@ export default class About extends Component {
                }
                </p>
 
+               
+
+               <p>If you are intrested in viewing my resume, you can view that
+                    <a href="https://drive.google.com/file/d/1jBXwMJORNkTxH0KFE2J4N31j6sUaquOG/view?usp=sharing"
+                    target="_blank" rel="noopener noreferrer"> here !</a> </p>
+
                <div className="row">
 
                   <div className="columns contact-details">

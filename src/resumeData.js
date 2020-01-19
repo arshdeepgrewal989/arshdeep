@@ -74,12 +74,16 @@ let resumeData = {
         "imgurl":"images/IMG_0870.jpg"
       }*/
     ],
-    /*"testimonials":[
+    "testimonials":[
       {
-        "description":"Pleasure to work with, quick learner and efficient employee",
-        "name":"Nik Schmit"
+        "description":"Deep was a pleasure to work with. Great work ethic and time management.",
+        "name":"Abhinav"
       },
-    ]*/
+      {
+        "description":"Arshdeep Grewal is an exceptional colleague and amazing teammate, i have worked with him on countless projects and he is very much motivated and reliable.",
+        "name":"Richie Joseph"
+      }
+    ]
   }
   
   export default resumeData
